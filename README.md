@@ -4,13 +4,9 @@
 
 # Le Project
 
-<<<<<<< HEAD
 Ce projet a été rélisé lors d'une cession de formation sous React Native pour la formation DWWM 2024 du CEPPIC
 
 
-=======
-Hello 😄! Ce projet a été rélisé lors d'une cession de formation sous React Native pour la formation CEPPIC DWWM 2023.
->>>>>>> 9ebd439eefab800984e30f103c1ee62037a582b4
 
 ## Authors
 
